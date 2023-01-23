@@ -1,11 +1,11 @@
-##  Seja bem-vindo ao meu GitHub 👋
-Olá! Eu sou Lueny Dantas
+##  Welcome to my GitHub 👋
+Hi! I'm Lueny Dantas
 
-Sou iniciante em desenvolvimento Android
+Android development beginner
 </br>
-Estudando no momento Kotlin e Jetpack Compose
+Currently studying Kotlin and Jetpack Compose
 </br>
-Espero que goste do meus projetos!
+I hope you like my projects
 </br>
 </br>
 </br>
