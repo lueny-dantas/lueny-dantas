@@ -8,7 +8,6 @@ Currently studying Kotlin and Jetpack Compose
 I hope you like my projects
 </br>
 </br>
-</br>
 
 <div>
 <a href="https://github.com/lueny-dantas">
