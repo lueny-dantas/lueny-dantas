@@ -1,4 +1,4 @@
-##  Welcome to my GitHub 👋
+## Welcome to my GitHub 👋
 Hi! I'm Lueny Dantas
 
 Android development beginner
