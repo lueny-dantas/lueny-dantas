@@ -10,6 +10,11 @@ I hope you like my projects
 </br>
 
 <div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+</div>
+  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+<div>
 <a href="https://github.com/lueny-dantas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lueny-dantas&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lueny-dantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,7 +23,7 @@ I hope you like my projects
 <img height=40 width=60 padding src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
 <img height=40 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 
-##
+ <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 </br>
 </br>
