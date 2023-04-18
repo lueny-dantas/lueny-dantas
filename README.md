@@ -1,7 +1,7 @@
 ## Welcome to my GitHub 👋
 Hi! I'm Lueny Dantas
 
-Android development beginner
+Android development jr
 </br>
 Currently studying Kotlin and Jetpack Compose
 </br>
