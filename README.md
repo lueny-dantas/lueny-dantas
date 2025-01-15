@@ -3,7 +3,7 @@ Hi! I'm Lueny Dantas
 
 Jr Android Development 
 </br>
-Currently studying Kotlin and Jetpack Compose
+Kotlin, Jetpack Compose and KMP
 </br>
 I hope you like my projects
 </br>
